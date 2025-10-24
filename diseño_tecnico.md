@@ -1,10 +1,10 @@
-# ⚙️ Diseño Técnico Detallado de AetherOS
+# Diseño Técnico Detallado de AetherOS
 
 Este documento detalla los aspectos técnicos y las justificaciones de diseño de **AetherOS**, siguiendo los requerimientos del curso Sistemas Operativos I.
 
 ## 1. Nombre del Sistema Operativo y Propósito
 
-* **Nombre:** **AetherOS** ✨
+* **Nombre:** **AetherOS** 
 * **Propósito:** Sistema operativo de propósito especial para la **investigación científica colaborativa y el manejo de Big Data experimental** con un enfoque en la **computación cuántica simulada** y el análisis de conjuntos de datos masivos.
 
 ## 2. Tipo de Núcleo Elegido y Justificación
